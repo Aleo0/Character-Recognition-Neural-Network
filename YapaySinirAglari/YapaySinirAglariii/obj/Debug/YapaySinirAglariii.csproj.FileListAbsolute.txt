@@ -1,0 +1,10 @@
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\bin\Debug\YapaySinirAglariii.exe.config
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\bin\Debug\YapaySinirAglariii.exe
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\bin\Debug\YapaySinirAglariii.pdb
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.csproj.AssemblyReference.cache
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.Form1.resources
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.Properties.Resources.resources
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.csproj.GenerateResource.cache
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.csproj.CoreCompileInputs.cache
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.exe
+C:\c# Projeler\YapaySinirAglariii\YapaySinirAglariii\obj\Debug\YapaySinirAglariii.pdb

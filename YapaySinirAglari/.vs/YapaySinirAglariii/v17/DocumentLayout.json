@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# Projeler\\YapaySinirAglariii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|c:\\c# projeler\\yapaysiniraglariii\\yapaysiniraglariii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|solutionrelative:yapaysiniraglariii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|C:\\c# Projeler\\YapaySinirAglariii\\yapaysiniraglariii\\harftaniyici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|solutionrelative:yapaysiniraglariii\\harftaniyici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|C:\\c# Projeler\\YapaySinirAglariii\\yapaysiniraglariii\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|solutionrelative:yapaysiniraglariii\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|C:\\c# Projeler\\YapaySinirAglariii\\yapaysiniraglariii\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|solutionrelative:yapaysiniraglariii\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|C:\\c# Projeler\\YapaySinirAglariii\\yapaysiniraglariii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BBCBB84-0518-4471-AFC6-073D31A21A55}|YapaySinirAglariii\\YapaySinirAglariii.csproj|solutionrelative:yapaysiniraglariii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Form1.cs",
+              "RelativeDocumentMoniker": "YapaySinirAglariii\\Form1.cs",
+              "ToolTip": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Form1.cs",
+              "RelativeToolTip": "YapaySinirAglariii\\Form1.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:20:36.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HarfTaniyici.cs",
+              "DocumentMoniker": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\HarfTaniyici.cs",
+              "RelativeDocumentMoniker": "YapaySinirAglariii\\HarfTaniyici.cs",
+              "ToolTip": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\HarfTaniyici.cs",
+              "RelativeToolTip": "YapaySinirAglariii\\HarfTaniyici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:20:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Neuron.cs",
+              "RelativeDocumentMoniker": "YapaySinirAglariii\\Neuron.cs",
+              "ToolTip": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Neuron.cs",
+              "RelativeToolTip": "YapaySinirAglariii\\Neuron.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:42:29.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Layer.cs",
+              "DocumentMoniker": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Layer.cs",
+              "RelativeDocumentMoniker": "YapaySinirAglariii\\Layer.cs",
+              "ToolTip": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Layer.cs",
+              "RelativeToolTip": "YapaySinirAglariii\\Layer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:11:40.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Form1.cs",
+              "RelativeDocumentMoniker": "YapaySinirAglariii\\Form1.cs",
+              "ToolTip": "C:\\c# Projeler\\YapaySinirAglariii\\YapaySinirAglariii\\Form1.cs [Design]",
+              "RelativeToolTip": "YapaySinirAglariii\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:20:30.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
